@@ -1,0 +1,108 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/product-chain-1.png",
+      "title": "Front-End",
+      "description": "I have experience in each of the following technologies: html & css & javascript & React js & tailwindcss & scss & material UI."
+    },
+    {
+      "id": "2",
+      "src": "./img/tag-1.png",
+      "title": "Back-End",
+      "description": "I have experience in each of the following technologies: php & node js & express js & mysql & nosql mongodb"
+    },
+    {
+      "id": "3",
+      "src": "./img/feather-pen-2.png",
+      "title": "UI & UX Design",
+      "description": "I have experience in designing interfaces using each of the following techniques: Figma & Adobe Xd & Adobe Photoshop  "
+    }
+    
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/placeholder-image.png",
+      "title": "Mosul city news website",
+      "description": "Mosul City News is a web app built with React JS, offering local news and info to Mosul residents. It features: Local & international news News categories & search Sharing & commenting User-friendly design Responsive across devices Stay informed, connect with your community, and support Mosul's economy through local news",
+      "Tlink": "View In Github",
+      "link":"https://github.com/ahmedfaris2023/Mosul-city-news-website"
+    },
+    {
+      "id": "2",
+      "src": "./img/project2.png",
+      "title": "Personal Portfolio",
+      "description": "A site that contains some of student Zaid’s works, such as the good photos he takes, and it shows his experience and field. The site contains two themes: dark theme and light theme. The site is responsive to all devices and contains a field for contacting the person and social media identifiers.",
+      "Tlink": "View websity",
+      "link":"https://zaid-sufian.netlify.app"
+    },
+    {
+      "id": "3",
+      "src": "./img/project3.png",
+      "title": "Palestine will remain free",
+      "description": "Palestine Will Remain Free is a news website that defends the Palestinian cause and works to spread awareness about the injustice befalling the Palestinian people The site targets an Arab and international audience who is interested in the Palestinian issue and wants to know more about the current events in Palestine",
+      "Tlink":"View In Github",
+      "link": "https://github.com/ahmedfaris2023/Palestine/tree/main"
+    },
+    {
+      "id": "4",
+      "src": "./img/project4.png",
+      "title": "mistar zinjar ",
+      "description": "This website was designed according to the customer’s requirements, so that the cafeteria menu is available and is arranged into sections: a drinks section, a meal section, an appetizers section, etc. This website was designed in cooperation with the cafeteria according to the requirements.",
+      "Tlink":"View In Github",
+      "link": "https://github.com/ahmedfaris2023/mistar-zinjar"
+    },
+    {
+      "id": "5",
+      "src": "./img/project5.png",
+      "title": "Store Defacto",
+      "description": "Defacto is a leading Turkish clothing store that offers a wide variety of modern fashion for men, women and children at affordable prices. The store is distinguished by its elegant designs and diverse offers that meet all tastes and needs. DeFacto is the ideal choice for modern fashion lovers who are looking for a distinctive shopping experience at reasonable prices.",
+      "Tlink":"View In Github",
+      "link": "https://github.com/ahmedfaris2023/shop_defacto"
+    },
+    {
+      "id": "6",
+      "src": "./img/project6.png",
+      "title": "CV",
+      "description": "A site A site that contains self-deprecation, who I amthat contains self-deprecation, who I am, some details about my programming skills and studies, and projects that I have completed. It summarizes my experience during the years of learning and working in programming and talks about my goals and ambitions.",
+      "Tlink":"View In Github",
+      "link": "https://github.com/ahmedfaris2023/cv"
+    },
+    {
+      "id": "7",
+      "src": "./img/project7.png",
+      "title": "Bright Brush",
+      "description": "My personal website, which contains all my work in the field of design and UI/UX. On this website, I display all the work that I have accomplished for companies. This website aims to display my work to find a guest.",
+      "Tlink":"View websity",
+      "link": "https://brightbrushgraphicdesigner.on.drv.tw/html-css-js-portfolio-tutorial-2-main/#projects"
+    }
+
+  ],
+  "testimonial": [
+    {
+      "id": "1",
+      "count": "5",
+      "src": "./img/avatar-image.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "author_name": "Dianne Russel",
+      "author_designation": "Starbucks"
+    },
+    {
+      "id": "2",
+      "count": "5",
+      "src": "./img/avatar-image-1.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "author_name": "Kristin Watson",
+      "author_designation": "Louis Vuitton"
+    },
+    {
+      "id": "3",
+      "count": "5",
+      "src": "./img/avatar-image-2.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "author_name": "Kathryn Murphy",
+      "author_designation": "McDonald's"
+    }
+  ]
+}
